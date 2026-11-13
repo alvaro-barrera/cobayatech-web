@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/1ua2kfq9s-me6.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/_next/static/chunks/3vhovtqm-7y4n.js"
+b:"/_next/static/chunks/15wyd0nxj33sd.js"
+c:I[85437,["$a","$b"],"Image"]
+d:I[22016,["$a","$b"],""]
+e:I[97367,["$3"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$3"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3"],"$14"]
+16:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"py-24","children":["$","div",null,{"className":"mx-auto w-full max-w-6xl px-4 sm:px-6 flex flex-col items-center text-center","children":[["$","$Lc",null,{"src":"/cobaya.png","alt":"","width":174,"height":129,"className":"w-40"}],["$","p",null,{"className":"mt-6 font-display text-6xl font-black text-cafe","children":"404"}],["$","h1",null,{"className":"mt-2 font-display text-2xl font-black uppercase","children":"Esta página se perdió"}],["$","p",null,{"className":"mt-3 text-muted","children":"Nuestra cobaya buscó por todas partes, pero no la encontró."}],["$","$Ld",null,{"href":"/","className":"inline-flex items-center justify-center gap-2 px-6 py-3 font-display text-sm font-extrabold uppercase tracking-wide transition-all focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-cafe-claro disabled:pointer-events-none disabled:opacity-50 bg-cafe text-crema shadow-bloque-sm hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-bloque active:translate-x-0 active:translate-y-0 active:shadow-none mt-8","children":"Volver al inicio"}]]}]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$8"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#553819"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Página no encontrada | CobayaTech"}],["$","meta","1",{"name":"description","content":"Desarrollamos aplicaciones móviles, sistemas web y páginas web a medida para negocios en Perú. Te acompañamos desde la idea hasta el lanzamiento, con entregas progresivas."}],["$","meta","2",{"name":"keywords","content":"desarrollo web Perú,desarrollo web Chiclayo,diseño web Chiclayo,desarrollo de software Perú,empresa de software Chiclayo,páginas web a medida,desarrollo de aplicaciones móviles,sistemas web a medida,tienda online,facturación electrónica,CobayaTech"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"canonical","href":"https://cobayatech.com/"}],["$","meta","5",{"property":"og:title","content":"CobayaTech | Desarrollo web, apps y software que enamoran"}],["$","meta","6",{"property":"og:description","content":"Desarrollamos aplicaciones móviles, sistemas web y páginas web a medida para negocios en Perú. Te acompañamos desde la idea hasta el lanzamiento, con entregas progresivas."}],["$","meta","7",{"property":"og:url","content":"https://cobayatech.com/"}],["$","meta","8",{"property":"og:site_name","content":"CobayaTech"}],["$","meta","9",{"property":"og:locale","content":"es_PE"}],["$","meta","10",{"property":"og:image","content":"https://cobayatech.com/opengraph-image?47f569573709c1d7"}],["$","meta","11",{"property":"og:image:type","content":"image/png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"CobayaTech — Apps, sistemas y páginas web que enamoran"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"CobayaTech | Desarrollo web, apps y software que enamoran"}],["$","meta","18",{"name":"twitter:description","content":"Desarrollamos aplicaciones móviles, sistemas web y páginas web a medida para negocios en Perú. Te acompañamos desde la idea hasta el lanzamiento, con entregas progresivas."}],["$","meta","19",{"name":"twitter:image","content":"https://cobayatech.com/opengraph-image?47f569573709c1d7"}],["$","meta","20",{"name":"twitter:image:alt","content":"CobayaTech — Apps, sistemas y páginas web que enamoran"}],["$","meta","21",{"name":"twitter:image:type","content":"image/png"}],["$","meta","22",{"name":"twitter:image:width","content":"1200"}],["$","meta","23",{"name":"twitter:image:height","content":"630"}],["$","link","24",{"rel":"icon","href":"/icon.png?icon.3lu4_gq511h1f.png","sizes":"64x64","type":"image/png"}],["$","link","25",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0sp7qv4qxav26.png","sizes":"180x180","type":"image/png"}],["$","$L16","26",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$8"}},"a":"$@18","u":"$@19","b":"UC5v2RbVG83ZqZCVWkDxr"}
+10:null
+19:true
+8:300
+8:C
+18:0
+6:"$undefined"
+17:"$undefined"
+11:"$undefined"

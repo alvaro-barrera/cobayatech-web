@@ -1,0 +1,50 @@
+# CobayaTech
+
+> Desarrollo de apps móviles, sistemas web, páginas web, tiendas online y facturación electrónica SUNAT para negocios en Perú.
+
+Empresa de tecnología con base en Chiclayo, Lambayeque, Perú. Atendemos negocios de todo el país, con reuniones por videollamada y entregas en línea.
+
+## Servicios
+
+- **Aplicaciones móviles**: Apps nativas para Android y iOS, publicación en Play Store y App Store, notificaciones push, funcionalidad offline.
+- **Sistemas web a medida**: Software interno para ventas, inventario, clientes, reportes y facturación. Accesible desde cualquier navegador.
+- **Páginas web corporativas**: Webs y landing pages rápidas, optimizadas para Google, adaptadas a celular.
+- **Tiendas online**: E-commerce con catálogo, carrito y pasarelas de pago peruanas (Yape, PagoEfectivo, tarjeta).
+- **Facturación electrónica SUNAT**: Integración con el sistema de comprobantes electrónicos, boletas y facturas.
+- **Soporte y mantenimiento**: Monitoreo, mejoras continuas y nuevas funcionalidades post-lanzamiento.
+
+## Proyectos entregados
+
+- **Agrosalas Perú** (agrosalasperu.com): Web corporativa bilingüe (español/inglés) para empresa exportadora de conservas de Chiclayo.
+- **Neko Manga CIX** (nekomangacix.com): Tienda online de manga y coleccionables con envíos a todo el Perú.
+- **Creaza** (creaza.pe): Tienda de regalos personalizados e impresión 3D con pedidos por WhatsApp en Chiclayo.
+
+## Precios orientativos
+
+Los proyectos parten desde S/. 600. El costo final depende del alcance, funcionalidades requeridas y tiempo de desarrollo. Se ofrece cotización sin compromiso.
+
+## Cobertura geográfica
+
+Sede: Chiclayo, Lambayeque, Perú (atención presencial previa coordinación).
+Atendemos clientes en todo el Perú: Lambayeque, Piura, Trujillo, Cajamarca, Tumbes, Lima y demás regiones.
+
+## Propuesta de valor
+
+- Primera reunión gratuita.
+- Entregas progresivas cada 1–2 semanas.
+- El código fuente pertenece al cliente al finalizar.
+- Periodo de garantía incluido en cada proyecto.
+
+## Contacto
+
+- Email: soporte@cobayatech.com
+- Teléfono / WhatsApp: +51 924 262 747
+- Instagram: https://www.instagram.com/cobayatech
+- Cotizador: https://cobayatech.com/work-together
+
+## Páginas clave
+
+- Inicio: https://cobayatech.com
+- Proyectos: https://cobayatech.com/projects
+- Blog: https://cobayatech.com/blog
+- Cotizar proyecto: https://cobayatech.com/work-together
